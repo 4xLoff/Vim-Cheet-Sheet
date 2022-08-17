@@ -73,7 +73,7 @@ General.
 u                         - Deshacer.
 Ctrl+r                    - Rehacer.
 
-Avanzado.
+Avanzados.
 
 Movimiento del cursor.
 
